@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/room-finder/static/css/main.1426ba25.css",
+    "main.js": "/room-finder/static/js/main.0d20cca1.js",
+    "static/js/453.404a8740.chunk.js": "/room-finder/static/js/453.404a8740.chunk.js",
+    "static/media/pg-with-wifi.jpeg": "/room-finder/static/media/pg-with-wifi.6dcd557d21155c80e577.jpeg",
+    "static/media/meals_included.png": "/room-finder/static/media/meals_included.05b6f8c131dd3b5197e6.png",
+    "static/media/img1.png": "/room-finder/static/media/img1.ba5a11b50185ad0bd25b.png",
+    "static/media/for_professionals.png": "/room-finder/static/media/for_professionals.758584cd16558062a467.png",
+    "static/media/single_rooms.png": "/room-finder/static/media/single_rooms.c6fd200e6b028af2ef25.png",
+    "static/media/students.jpg": "/room-finder/static/media/students.a4486243faec87ff7a05.jpg",
+    "static/media/maid_cooking.jpg": "/room-finder/static/media/maid_cooking.fb077afb045170608342.jpg",
+    "static/media/waterservice.jpg": "/room-finder/static/media/waterservice.b5d0f7d102608f07ab93.jpg",
+    "static/media/laundry.jpg": "/room-finder/static/media/laundry.ac85a49443c409433c9f.jpg",
+    "static/media/wifiservice.jpg": "/room-finder/static/media/wifiservice.0438c2de363bca82e1ea.jpg",
+    "static/media/cleaningservice.jpg": "/room-finder/static/media/cleaningservice.96ae8454b550835676da.jpg",
+    "static/media/image1.jpg": "/room-finder/static/media/image1.93d84e9b4378466c0dca.jpg",
+    "static/media/image3.jpg": "/room-finder/static/media/image3.a6491741043faf5bb368.jpg",
+    "static/media/image6.jpg": "/room-finder/static/media/image6.98ba046cb543cb41bab1.jpg",
+    "static/media/image4.jpg": "/room-finder/static/media/image4.8b9ba0f7ebab407164e4.jpg",
+    "static/media/image5.jpg": "/room-finder/static/media/image5.f41d87aa857e3bed69dc.jpg",
+    "static/media/data-30-point.svg": "/room-finder/static/media/data-30-point.e0b2711aa8146071a9354423bc55ef1e.svg",
+    "static/media/image2.jpg": "/room-finder/static/media/image2.6abc8454e38775130043.jpg",
+    "static/media/unique-monthly-users.svg": "/room-finder/static/media/unique-monthly-users.9aa5dd25ed48957b6946d7d82c701629.svg",
+    "static/media/verified-20k-list.svg": "/room-finder/static/media/verified-20k-list.fddfdb2ddf2a70733a56e3daf31ad512.svg",
+    "index.html": "/room-finder/index.html",
+    "main.1426ba25.css.map": "/room-finder/static/css/main.1426ba25.css.map",
+    "main.0d20cca1.js.map": "/room-finder/static/js/main.0d20cca1.js.map",
+    "453.404a8740.chunk.js.map": "/room-finder/static/js/453.404a8740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1426ba25.css",
+    "static/js/main.0d20cca1.js"
+  ]
+}
